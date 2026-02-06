@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  background-color: #010001;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  max-width: 1231px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
