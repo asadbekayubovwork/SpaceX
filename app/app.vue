@@ -5,3 +5,7 @@
     </NuxtLayout>
   </VueLenis>
 </template>
+
+<script>
+console.log('test')
+</script>
