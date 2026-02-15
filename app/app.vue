@@ -5,3 +5,7 @@
     </NuxtLayout>
   </VueLenis>
 </template>
+
+<script>
+console.log('Salom')
+</script>
